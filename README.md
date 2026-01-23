@@ -1,2 +1,4 @@
 # Curso de Python
-Repositorio para o curso de python do curso em video 
+Repositório para os cursos de python  
+
+esse repositório e para os Exercícios do curso de python e outros cursos de python
